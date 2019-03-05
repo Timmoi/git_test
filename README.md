@@ -1,0 +1,1 @@
+This is Timmoi's first git project!
